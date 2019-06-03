@@ -1,3 +1,4 @@
 My name is Lydia Herring-Harrington.
 I am the Electronic Resources and Metadata Services Librarian.
 I work in Resource Management and Repository Services (RMRS).
+Lydia is learning Git with Andrea!
